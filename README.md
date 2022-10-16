@@ -2,4 +2,6 @@
 
 This repository contains all artifacts for my paper submitted to the Scientific Student Associations Conference at the Corvinus University of Budapest.
 
+Corresponding [project](https://github.com/kovaad/shiny) of building a dashboard for exploring the network properties available on https://kovacsa.shinyapps.io/final_project_AJK/
+
 Abstract: This paper examines the European football transfer market with the help of the toolkit of network science. Using a unique dataset of all transfers conducted by the first-tier football teams of the top 5 European leagues from 1992/1993 to 2021/2022, a directed transfer network is constructed (clubs represent nodes and transfers are links) for each transfer window. The questions the study aim to answer is how the global characteristics of these networks evolved over time and the existence and extent of the impact of node characteristics in the transfer market networks on the later performance of the corresponding football clubs. The relevance of the study lies in the high number of transfers on the football transfer market with questionable effects on realized sport achievements. The findings of this study are useful for practitioners and sport scientists alike.
